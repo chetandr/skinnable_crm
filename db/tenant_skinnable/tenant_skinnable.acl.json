@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "67678ba8621d77844dcc96bc"
+  },
+  "label": "Create Master",
+  "name": "create_master"
+},
+{
+  "_id": {
+    "$oid": "67678bcb621d77844dcc96bd"
+  },
+  "label": "Update Master",
+  "name": "update_master"
+},
+{
+  "_id": {
+    "$oid": "67678be3621d77844dcc96be"
+  },
+  "label": "Read Master",
+  "name": "read_master"
+},
+{
+  "_id": {
+    "$oid": "67678bfa621d77844dcc96bf"
+  },
+  "label": "Delete Master",
+  "name": "delete_master"
+},
+{
+  "_id": {
+    "$oid": "67789557dd81968559cced1f"
+  },
+  "master": [
+    "create",
+    "read",
+    "update",
+    "delete"
+  ]
+}]

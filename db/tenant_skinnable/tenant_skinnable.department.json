@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "677746bddd81968559cced12"
+  },
+  "name": "Human Resources",
+  "description": "Responsible for managing employee relations, payroll, and recruitment.",
+  "manager": {
+    "employeeId": "64e2c9b10f1a2b3c4d5e6f7g",
+    "name": "John Doe"
+  },
+  "employees": [
+    "64e2c9b10f1a2b3c4d5e6f7h",
+    "64e2c9b10f1a2b3c4d5e6f7i",
+    "64e2c9b10f1a2b3c4d5e6f7j"
+  ],
+  "budget": 500000,
+  "location": "New York Office",
+  "createdAt": "2025-01-01T10:00:00.000Z",
+  "updatedAt": "2025-01-02T15:30:00.000Z"
+}]

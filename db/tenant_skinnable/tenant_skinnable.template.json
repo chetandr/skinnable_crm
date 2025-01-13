@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "677755f1dd81968559cced1c"
+  },
+  "attributes": {
+    "firstName": {
+      "inputType": "text",
+      "label": "First Name",
+      "placeholder": "Enter first name",
+      "required": true,
+      "name": "first_name"
+    },
+    "lastName": {
+      "inputType": "text",
+      "label": "Last Name",
+      "placeholder": "Enter last name",
+      "required": true,
+      "name": "last_name"
+    },
+    "email": {
+      "inputType": "email",
+      "label": "Email Address",
+      "placeholder": "Enter email address",
+      "required": true,
+      "name": "email"
+    },
+    "phone": {
+      "inputType": "tel",
+      "label": "Phone Number",
+      "placeholder": "Enter phone number",
+      "required": true,
+      "name": "phone"
+    },
+    "dob": {
+      "inputType": "date",
+      "label": "Date of Birth",
+      "required": true,
+      "name": "dob"
+    },
+    "gender": {
+      "inputType": "select",
+      "label": "Gender",
+      "options": [
+        {
+          "value": "male",
+          "label": "Male"
+        },
+        {
+          "value": "female",
+          "label": "Female"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ],
+      "required": true,
+      "name": "gender"
+    },
+    "address": {
+      "hassub": true,
+      "label": "Address",
+      "sub": {
+        "street": {
+          "inputType": "text",
+          "label": "Street Address",
+          "placeholder": "Enter street address",
+          "required": true,
+          "name": "address_street"
+        },
+        "city": {
+          "inputType": "text",
+          "label": "City",
+          "placeholder": "Enter city",
+          "required": true,
+          "name": "address_city"
+        },
+        "state": {
+          "inputType": "text",
+          "label": "State",
+          "placeholder": "Enter state",
+          "required": true,
+          "name": "address_state"
+        },
+        "zipCode": {
+          "inputType": "text",
+          "label": "ZIP Code",
+          "placeholder": "Enter ZIP code",
+          "required": true,
+          "name": "address_zipcode"
+        },
+        "country": {
+          "inputType": "text",
+          "label": "Country",
+          "placeholder": "Enter country",
+          "required": true,
+          "name": "address_country"
+        }
+      }
+    }
+  },
+  "name": "customer"
+}]

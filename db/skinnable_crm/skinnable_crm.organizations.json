@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "66e1bed0ce5dcad94801430f"
+  },
+  "basic_information": {
+    "full_name": "",
+    "job_title": "",
+    "department": "",
+    "company_or_organization": ""
+  },
+  "contact_details": {
+    "phone_number": "",
+    "email_address": "",
+    "mailing_address": ""
+  },
+  "social_profile": {
+    "linked_in": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "demographic_information": {
+    "date_of_birth": "",
+    "gender": "",
+    "location": {
+      "citys": "",
+      "state": "",
+      "country": ""
+    }
+  },
+  "professional_details": {
+    "industry": "",
+    "company_size": "",
+    "role_position": ""
+  },
+  "slug": "AF6GHJ"
+},
+{
+  "_id": {
+    "$oid": "66e29e1ae086b756a74fe179"
+  },
+  "slug": "AF6GHJ",
+  "basic_information": {
+    "full_name": "Jhon Doe",
+    "job_title": "",
+    "company_or_organization": "",
+    "department": "",
+    "_id": {
+      "$oid": "66e29e1ae086b756a74fe17a"
+    }
+  },
+  "__v": 0
+}]

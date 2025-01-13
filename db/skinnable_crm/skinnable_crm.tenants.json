@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "674910dd5884757e614f7be8"
+  },
+  "name": "Skinnable CRM",
+  "domain": "skinnable.saranyu.cloud",
+  "adminEmail": "chetan.d.rane@gmail.com",
+  "subscription": {
+    "plan": "pro",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2025-01-01T00:00:00Z",
+    "paymentDetails": {
+      "currency": "INR",
+      "paymentMode": "credit card",
+      "totalAmount": 1200,
+      "isRecurring": true
+    }
+  },
+  "settings": {
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "dateFormat": "MM/DD/YYYY",
+    "currencyFormat": "USD"
+  },
+  "features": {
+    "customAttributes": true,
+    "workflowAutomation": true,
+    "analytics": true
+  },
+  "createdAt": "2023-12-01T12:00:00Z",
+  "updatedAt": "2024-01-01T00:00:00Z",
+  "password": "fe070357388afe6059192c6b53590227",
+  "db_name": "tenant_skinnable",
+  "db_password": "",
+  "db_user": ""
+}]

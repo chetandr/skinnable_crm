@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67638833621d77844dcc9690"
+  },
+  "name": "New",
+  "description": "Contact has been added but not yet evaluated.",
+  "sequence": 1,
+  "isFinalStage": false,
+  "slug": "new"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9691"
+  },
+  "name": "Contacted",
+  "description": "Initial communication has been established.",
+  "sequence": 2,
+  "isFinalStage": false,
+  "slug": "contacted"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9692"
+  },
+  "name": "Qualified",
+  "description": "Contact has shown interest and meets qualification criteria.",
+  "sequence": 3,
+  "isFinalStage": false,
+  "slug": "qualified"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9693"
+  },
+  "name": "Opportunity",
+  "description": "Sales opportunity identified, moving forward with discussions.",
+  "sequence": 4,
+  "isFinalStage": false,
+  "slug": "opportunity"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9694"
+  },
+  "name": "Negotiation",
+  "description": "Negotiations regarding pricing and terms are ongoing.",
+  "sequence": 5,
+  "isFinalStage": false,
+  "slug": "negotiation"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9695"
+  },
+  "name": "Converted",
+  "description": "Contact has become a customer.",
+  "sequence": 6,
+  "isFinalStage": true,
+  "slug": "converted"
+},
+{
+  "_id": {
+    "$oid": "67638833621d77844dcc9696"
+  },
+  "name": "Lost",
+  "description": "Contact did not convert and has been disqualified.",
+  "sequence": 7,
+  "isFinalStage": true,
+  "slug": "lost"
+},
+{
+  "_id": {
+    "$oid": "6764f9b6771f755f171086b7"
+  },
+  "stageId": "",
+  "name": "Propect",
+  "description": "Contact has agreed on certain terms.",
+  "sequence": 0,
+  "isFinalStage": false
+},
+{
+  "_id": {
+    "$oid": "6764f9d5ffafd29fb9e88035"
+  },
+  "slug": "213KDH",
+  "name": "Propect",
+  "description": "Contact has agreed on certain terms.",
+  "sequence": 0,
+  "isFinalStage": false
+}]

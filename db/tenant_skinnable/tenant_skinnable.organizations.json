@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "676386c2621d77844dcc968b"
+  },
+  "organizationName": "Tech Solutions Inc.",
+  "address": {
+    "street": "123 Innovation Blvd",
+    "city": "San Francisco",
+    "state": "California",
+    "postalCode": "94105"
+  },
+  "industryType": "Information Technology",
+  "website": "https://www.techsolutions.com",
+  "pointsOfContact": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@techsolutions.com",
+      "mobile": "+1-123-456-7890",
+      "designation": "CEO"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@techsolutions.com",
+      "mobile": "+1-987-654-3210",
+      "designation": "Head of Operations"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily.davis@techsolutions.com",
+      "mobile": "+1-456-789-1234",
+      "designation": "Customer Success Manager"
+    }
+  ],
+  "source": "google",
+  "status": "contacted",
+  "current_stage": "lead",
+  "stages": [
+    {
+      "stage": "",
+      "created_at": "",
+      "remarks": "",
+      "staffId": ""
+    }
+  ],
+  "created_at": ""
+}]

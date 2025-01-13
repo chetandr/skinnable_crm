@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "677751dbdd81968559cced17"
+  },
+  "name": "Admin",
+  "description": "Responsible for managing system-wide settings and user accounts.",
+  "permissions": [
+    "read_masters",
+    "create_masters",
+    "delete_masters",
+    "update_masters"
+  ],
+  "createdAt": "2025-01-01T10:00:00.000Z",
+  "updatedAt": "2025-01-02T15:30:00.000Z",
+  "slug": "admin"
+}]

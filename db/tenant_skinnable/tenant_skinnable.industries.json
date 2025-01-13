@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "67638a40621d77844dcc9699"
+  },
+  "name": "Information Technology and Software",
+  "slug": "it-software"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969a"
+  },
+  "name": "Healthcare and Pharmaceuticals",
+  "slug": "healthcare-pharma"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969b"
+  },
+  "name": "Financial Services",
+  "slug": "financial-services"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969c"
+  },
+  "name": "Manufacturing",
+  "slug": "manufacturing"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969d"
+  },
+  "name": "Retail and E-commerce",
+  "slug": "retail-ecommerce"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969e"
+  },
+  "name": "Education",
+  "slug": "education"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc969f"
+  },
+  "name": "Real Estate and Construction",
+  "slug": "real-estate-construction"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a0"
+  },
+  "name": "Hospitality and Tourism",
+  "slug": "hospitality-tourism"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a1"
+  },
+  "name": "Telecommunications",
+  "slug": "telecommunications"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a2"
+  },
+  "name": "Energy and Utilities",
+  "slug": "energy-utilities"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a3"
+  },
+  "name": "Government and Public Sector",
+  "slug": "government-public"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a4"
+  },
+  "name": "Media and Entertainment",
+  "slug": "media-entertainment"
+},
+{
+  "_id": {
+    "$oid": "67638a40621d77844dcc96a5"
+  },
+  "name": "Nonprofit and Charities",
+  "slug": "nonprofit-charities"
+},
+{
+  "_id": {
+    "$oid": "6764d76014f584ccd6ef607e"
+  },
+  "name": "Hospitality",
+  "slug": "X2ABVT"
+},
+{
+  "_id": {
+    "$oid": "6764f70f771f755f171086b6"
+  },
+  "name": "Propect",
+  "slug": "W56QPP"
+}]

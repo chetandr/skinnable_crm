@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6762443b621d77844dcc967b"
+  },
+  "firstName": "Johnathan",
+  "lastName": "Daniel",
+  "email": "john.doe@example.com",
+  "phone": "+1234567890",
+  "dob": "1990-05-20",
+  "gender": "male",
+  "address": {
+    "street": "123 Elm Street",
+    "city": "Metropolis",
+    "state": "NY",
+    "zipCode": "12345",
+    "country": "USA"
+  },
+  "employmentDetails": {
+    "employeeId": "EMP001",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joiningDate": "2020-06-15",
+    "employmentType": "full-time",
+    "managerId": "64df1c8b71b5c3f86d0a1f92",
+    "status": "active"
+  },
+  "roles": [
+    "admin"
+  ],
+  "permissions": [
+    "read",
+    "write",
+    "update"
+  ],
+  "salary": {
+    "base": 80000,
+    "bonus": 5000,
+    "currency": "USD"
+  },
+  "workHours": {
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "days": [
+      "Monday",
+      "Friday"
+    ]
+  },
+  "emergencyContact": {
+    "name": "Jane Doe",
+    "relation": "Spouse",
+    "phone": "+1234567891"
+  },
+  "createdAt": "2024-11-29T08:30:00Z",
+  "updatedAt": "2024-11-29T10:00:00Z",
+  "password": "$2a$10$46v6ZC7xzsi25AdyNPjaJuBfSNa34k55lmgaBki4ELHH29DneMq9y"
+}]
